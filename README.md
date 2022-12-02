@@ -1,4 +1,5 @@
-# NunitTestAdapter
+# Nunit2000TestsLimit
+
 Ref: https://docs.nunit.org/articles/vs-test-adapter/Tips-And-Tricks.html#assemblyselectlimit
 
 **Issue**
